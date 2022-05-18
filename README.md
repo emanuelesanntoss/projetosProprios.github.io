@@ -4,4 +4,4 @@
  
  Pasta pythonExercicios.7z - encontra-se alguns exercicios praticados sobre python.
  
- By Emanuele Santos -  emanuelesanntoss@gamil.com
+ By Emanuele Santos -  emanuelesanntoss@gmail.com
